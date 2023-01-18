@@ -14,7 +14,7 @@ body {
 
 body {
   background-color: #333;
-  background-image: url(/bg2.png);
+  background-image: url(bg2.png);
   background-size: cover;
   background-repeat: no-repeat;
 /*   background-position: center; */
